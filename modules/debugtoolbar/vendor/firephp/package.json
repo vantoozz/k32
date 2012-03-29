@@ -1,0 +1,12 @@
+{
+    "uid": "http://registry.pinf.org/cadorn.org/github/firephp-libs/",
+    "name": "firephp-libs",
+    "label": "FirePHP Libraries",
+    "author": "Christoph Dorn (http://www.christophdorn.com/)",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git://github.com/cadorn/firephp-libs.git"
+        }
+    ]
+}
