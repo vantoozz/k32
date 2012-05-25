@@ -1,3 +1,0 @@
-[submodule "modules/captcha"]
-	path = modules/captcha
-	url = git://github.com/ener/kohana-captcha-3.2.x.git
