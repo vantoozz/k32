@@ -1,0 +1,3 @@
+[submodule "modules/storage"]
+	path = modules/storage
+	url = git://github.com/morgan/kohana-storage.git
